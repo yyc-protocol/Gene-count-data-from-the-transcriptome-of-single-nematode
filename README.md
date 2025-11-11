@@ -1,0 +1,1 @@
+High-resolution, single-nematode RNA-seq data were generated for eight developmental stages of Meloidogyne incognita (from second-stage juveniles to adults) using a low-input Smart-seq2 approach. The dataset includes 75 high-quality transcriptome libraries, with at least five biological replicates per stage, enabling robust and reproducible analyses.
